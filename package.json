@@ -10,11 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/David-L-R/async_await_course.git"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/David-L-R/async_await_course/issues"
   },
-  "homepage": "https://github.com/David-L-R/async_await_course#readme"
+  "homepage": "https://github.com/David-L-R/async_await_course#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
